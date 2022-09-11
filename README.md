@@ -1,0 +1,2 @@
+# Bote-Levans
+El proyecto es un barco a escala que puede ser controlado por el usuario. Este dispositivo tendría la capacidad de comunicarse con el celular del usuario mediante bluetooth. El entregable del proyecto podrá comunicarse con una app móvil interconectada al dispositivo y podrá ser customizado en cualquier modelo de barco que la persona prefiera, fomentando el physical computing para niños de manera divertida
